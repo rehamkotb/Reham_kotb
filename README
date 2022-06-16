@@ -1,0 +1,21 @@
+
+NOTETHAT:
+I've provided to projects of API
+-- project working on my machine "herokuapp"
+-- project which you recommended on task but due to security restrictions on work laptop, couldn't run localhost
+
+---- List of test case which could be automated ---
+-> Create new product
+-> Modify existing product
+-> Add new product
+-> Validate specific product is exist
+-> Validate authentocation
+
+
+*** validation points needed
+	*validate status code
+	*validate ID created (for post)
+	*validate response time
+	*validate schema
+
+
