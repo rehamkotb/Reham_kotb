@@ -1,0 +1,14 @@
+================ Facebook Project ================
+
+=====> for design pattern <=====
+
+-- I've used POM(page object model) design patterm to seprate web elemnts as per web page name and test script how to increase maintainability of code
+and I've implmeneted PageObject using page factory
+
+-- Page Factory approach support lazy initialization by overloaded method "initElemnts" to intialize page objects
+	(if webelemnt not used of page object class that element will never be searched for)
+
+====> for framework <====
+
+-- I've used DataDriven from excel sheet.
+to read the date from excel then write optput data to excel
